@@ -1,7 +1,7 @@
 # sql-data-warehouse-project
 
-Welcome to the **Data Warehouse and Analytics Project** repository!
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics
 
 ---
 
@@ -33,10 +33,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License
+## 🛡️License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me
+## 🌟 About Me
 
 Hi there! I'm **Joseph Lytton**, rising SQL student doing the Data Warehouse Project from the **Data With Baraa** 30-Hour YouTube SQL Class.
