@@ -63,7 +63,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🏗️ Data Architecture  
+### 🏗️ Data Architecture  
 The data architecture for this project follows Medallion Architecture **Bronze, Silver,** and **Gold** layers:
 ![Data Warehouse Architecture](docs/SQL_Data_Warehouse_Project.drawio.png)
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files in SQL Server Database
@@ -72,7 +72,7 @@ The data architecture for this project follows Medallion Architecture **Bronze, 
 
 ---
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 
 ```text
 sql-data-warehouse-project/
@@ -109,4 +109,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Joseph Lytton**, rising SQL student doing the Data Warehouse Project from the **Data With Baraa** 30-Hour YouTube SQL Class.
+Hi there! I'm **Joseph Lytton**, rising Data Professional doing the Data Warehouse Project from the **Data With Baraa** 30-Hour YouTube SQL Class.
