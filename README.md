@@ -63,8 +63,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-### Architecture
-(docs/SQL)
+### Architecture  
+![Data Warehouse Architecture](docs/SQL Data Warehouse Project.drawio.png)
 
 ---
 
