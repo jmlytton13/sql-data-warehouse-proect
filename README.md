@@ -63,6 +63,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
+### Architecture
+(docs/SQL)
+
+---
+
 ## 🛡️License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
