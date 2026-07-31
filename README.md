@@ -72,6 +72,37 @@ The data architecture for this project follows Medallion Architecture **Bronze, 
 
 ---
 
+## 📂 Repository Structure
+
+```text
+sql-data-warehouse-project/
+│
+├── datasets/
+│   ├── source_crm/
+│   └── source_erp/
+│
+├── docs/
+│   ├── data_architecture.drawio
+│   ├── data_architecture.drawio
+│   ├── data_architecture.drawio
+│   ├── data_architecture.png
+│   └── data_catalog.md
+│
+├── scripts/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+│
+├── tests/
+│
+├── README.md
+├── README.md
+├── .gitignore
+└── requirements.txt
+```
+
+---
+
 ## 🛡️License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
