@@ -82,11 +82,15 @@ sql-data-warehouse-project/
 │   └── source_erp/
 │
 ├── docs/
-│   ├── data_architecture.drawio
-│   ├── data_architecture.drawio
-│   ├── data_architecture.drawio
-│   ├── data_architecture.png
-│   └── data_catalog.md
+│   ├── data_catalog.md
+│   ├── data_flow_diagram.drawio
+│   ├── data_flow_diagram.png
+│   ├── data_mart.drawio
+│   ├── data_mart.png
+│   ├── integration_model.drawio
+│   ├── integration_model.png
+│   ├── sql_data_warehouse_project.drawio
+│   └── sql_data_warehouse_project.png
 │
 ├── scripts/
 │   ├── bronze/
@@ -95,7 +99,6 @@ sql-data-warehouse-project/
 │
 ├── tests/
 │
-├── README.md
 ├── README.md
 ├── .gitignore
 └── requirements.txt
